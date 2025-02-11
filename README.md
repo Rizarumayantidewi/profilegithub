@@ -7,14 +7,6 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 - LinkedIn: [Riza Rumayanti Dewi](https://linkedin.com/in/riza-rumayanti-dewi) 
 - Instagram: [@Rizardewi](https://instagram.com/Rizardewi) 
 
-## 🏆 Achievements
-- Achievement 1: Description of achievement.
-- Achievement 2: Description of achievement.
-
-## 🌐 Organizations
-- [Organization 1](https://github.com/org1)
-- [Organization 2](https://github.com/org2)
-
 ## 📊 GitHub Stats
 ![Riza's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rizarumayantidewi&show_icons=true&theme=radical)
 
